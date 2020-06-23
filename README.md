@@ -1,4 +1,4 @@
-# Assignment-Java-Bank-Application-Testing-
+# Assignment-Java-Bank-Application-Testing
 A Banking App is developed to perform automated testing using JUNIT. 
 This Project is under the supervision of Prof. Emad Narsallah and is for educational and practice purpose only.
 
